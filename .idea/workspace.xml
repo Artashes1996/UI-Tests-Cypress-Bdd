@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7576cc5-62aa-47bf-90de-8ade79fe7916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cypress/integration/common/ameria-ui-steps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/All.features" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/pages/IframeUtility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/common/I_see_STRING_in_the_title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/common/globalBefore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/news/Google.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/news/Google/beforeEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/news/Google/different.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/news/Google/openingGoogle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/socialNetworks/Facebook.feature" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/socialNetworks/Date-Picker.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/socialNetworks/Facebook/different.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/socialNetworks/Facebook/openingFacebook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/socialNetworks/Twitter.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/socialNetworks/Twitter/openingTwitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aUYLALQkytpu1bcfQ2Jc1iy164" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="$PROJECT_DIR$/node_modules/cucumber" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Date-Picker.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/cypress/integration/socialNetworks/Date-Picker.feature" />
+      <option name="myNameFilter" value="" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.Date-Picker.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7576cc5-62aa-47bf-90de-8ade79fe7916" name="Default Changelist" comment="" />
+      <created>1586791581968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586791581968</updated>
+      <workItem from="1586791596633" duration="13018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="96" key="#Inspections" timestamp="1586793822259">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="96" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1586793822259" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586796719775">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586796719775" />
+    <state x="523" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586791919729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1586791919729" />
+    <state width="1515" height="410" key="GridCell.Tab.0.bottom" timestamp="1586799533381">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="410" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586799533381" />
+    <state width="1515" height="410" key="GridCell.Tab.0.center" timestamp="1586799533379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="410" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586799533379" />
+    <state width="1515" height="410" key="GridCell.Tab.0.left" timestamp="1586799533379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="410" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586799533379" />
+    <state width="1515" height="410" key="GridCell.Tab.0.right" timestamp="1586799533379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="410" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586799533379" />
+  </component>
+</project>
