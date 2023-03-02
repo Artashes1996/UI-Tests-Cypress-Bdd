@@ -22,7 +22,7 @@
 
   "author": "Artashes Pivazyan",
   "dependencies": {
-    "cypress": "^3.4.1",
+    "cypress": "^12.7.0",
     "cypress-cucumber-preprocessor": "^1.16.2"
   },
 
